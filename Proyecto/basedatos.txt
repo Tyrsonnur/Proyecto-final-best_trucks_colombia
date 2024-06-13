@@ -1,0 +1,2940 @@
+Marca
+Modelo
+Año
+Combustible
+Cilindrada (cc):
+Potencia (hp):
+Torque (Nm):
+Válvulas: 
+Consumo promedio (km/l): 
+Dimensiones (mm):
+Precio (USD):
+
+
+Marca: Toyota
+Modelo: Hilux
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 2755
+Potencia (hp): 201
+Torque (Nm): 500
+Válvulas: 16
+Consumo Promedio (km/l): 12.5
+Dimensiones (mm): "5330x1855x1815"
+Precio (USD) $35000
+
+Marca: Ford
+Modelo: Ranger
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 1999
+Potencia (hp): 270
+Torque (Nm): 310
+Válvulas: 16
+Consumo promedio (km/l): 10.2
+Dimensiones (mm): "5426x1860x1848"
+Precio (USD): $32000
+
+Marca: Chevrolet
+Modelo: Silverado
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 2776
+Potencia (hp): 277
+Torque (Nm): 650
+Válvulas: 16
+Consumo promedio (km/l): 11.8
+Dimensiones (mm): "5750x2060x2015"
+Precio (USD): $38000
+
+Marca: Nissan
+Modelo: Frontier
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 2298
+Potencia (hp): 187
+Torque (Nm): 450
+Válvulas: 16
+Consumo promedio (km/l): 13.4
+Dimensiones (mm): "5279x1850x1790"
+Precio (USD): $33000
+
+Marca: GMC
+Modelo: Sierra
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 5328
+Potencia (hp): 355
+Torque (Nm): 519
+Válvulas: 16
+Consumo promedio (km/l): 9.8
+Dimensiones (mm): "5879x2066x1869"
+Precio (USD): $42000
+
+Marca: Ram
+Modelo: 1500
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 5700
+Potencia (hp): 395
+Torque (Nm): 550
+Válvulas: 16
+Consumo promedio (km/l): 8.5
+Dimensiones(mm): "5891x2085x1950"
+Precio (USD): $45000
+
+Marca: Mitsubishi
+Modelo: L200
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 2442
+Potencia (hp): 178
+Torque (Nm): 430
+Válvulas: 16
+Consumo promedio (km/l): 14.2
+Dimensiones (mm): "5280x1815x1780"
+Precio (USD): $30000
+
+Marca: Volkswagen
+Modelo: Amarok
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 1968
+Potencia (hp): 201
+Torque (Nm): 500
+Válvulas: 16
+Consumo promedio (km/l): 11.5
+Dimensiones (mm): "5254x1834x1835"
+Precio (USD): $34000
+
+Marca: Ford
+Modelo: F-150
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 5000
+Potencia (hp): 400
+Torque (Nm): 550
+Válvulas: 16
+Consumo promedio (km/l): 9.0
+Dimensiones (mm): "5883x2004x1923"
+Precio (USD): $46000
+
+Marca: Chevrolet
+Modelo: Colorado
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 2200
+Potencia (hp): 200
+Torque (Nm): 500
+Válvulas: 16
+Consumo promedio (km/l): 10.8
+Dimensiones (mm): "5375x1870x1790"
+Precio (USD): $32000
+
+Marca: Nissan
+Modelo: Navara
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 2298
+Potencia (hp): 190
+Torque (Nm): 450
+Válvulas: 16
+Consumo promedio (km/l): 13.0
+Dimensiones (mm): "5255x1850x1840"
+Precio (USD): $33500
+
+Marca: Toyota
+Modelo: Tacoma
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 3956
+Potencia (hp): 278
+Torque (Nm): 460
+Válvulas: 24
+Consumo promedio (km/l): 8.0
+Dimensiones (mm): "5285x1915x1796"
+Precio (USD): $37000
+
+Marca: GMC
+Modelo: Canyon
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 3600
+Potencia (hp): 308
+Torque (Nm): 373
+Válvulas: 24
+Consumo promedio (km/l): 9.5
+Dimensiones(mm): "5405x1874x1780"
+Precio (USD): $38000
+
+Marca: Ford
+Modelo: Ranger Raptor
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 1996
+Potencia (hp): 210
+Torque (Nm): 500
+Válvulas: 16
+Consumo promedio (km/l): 9.8
+Dimensiones: "5616x2180x1873"
+Precio (USD): $48000
+
+Marca: Chevrolet
+Modelo: S10
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 2776
+Potencia (hp): 200
+Torque (Nm): 500
+Válvulas: 16
+Consumo promedio (km/l): 12.0
+Dimensiones (mm): "5347x1872x1803"
+Precio (USD): $35000
+
+Marca: Toyota
+Modelo: Tundra
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 5663
+Potencia (hp): 381
+Torque (Nm): 544
+Válvulas: 32
+Consumo promedio (km/l): 7.5
+Dimensiones (mm): "5814x2007x1930"
+Precio (USD): $48000
+
+Marca: Jeep
+Modelo: Gladiator
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 3600
+Potencia (hp): 285
+Torque (Nm): 352
+Válvulas: 24
+Consumo promedio (km/l): 9.3
+Dimensiones (mm): "5533x1875x1844"
+Precio (USD): $43000
+
+Marca: Nissan
+Modelo: Titan
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 5552
+Potencia (hp): 400
+Torque (Nm): 565
+Válvulas: 32
+Consumo promedio (km/l): 7.0
+Dimensiones (mm): "5780x2045x1977"
+Precio (USD): $49000
+
+Marca: Isuzu
+Modelo: D-Max
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 1898
+Potencia (hp): 160
+Torque (Nm): 360
+Válvulas: 16
+Consumo promedio (km/l): 15.0
+Dimensiones (mm): "5295x1860x1780"
+Precio (USD): $29000
+
+Marca: Ford
+Modelo: F-250
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 6742
+Potencia (hp): 475
+Torque (Nm): 1068
+Válvulas: 32
+Consumo promedio (km/l): 6.5
+Dimensiones (mm): "6166x2060x2030"
+Precio (USD): $55000
+
+Marca: Honda
+Modelo: Ridgeline
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 3471
+Potencia (hp): 280
+Torque (Nm): 355
+Válvulas: 24
+Consumo promedio (km/l): 8.5
+Dimensiones (mm): "5399x1976x1801"
+Precio (USD): $39000
+
+Marca: Ram
+Modelo: 2500
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 6690
+Potencia (hp): 370
+Torque (Nm): 800
+Válvulas: 32
+Consumo promedio (km/l): 7.2
+Dimensiones (mm): "6377x2088x1986"
+Precio (USD): $58000
+
+Marca: Chevrolet
+Modelo: Silverado HD
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 6599
+Potencia (hp): 445
+Torque (Nm): 1233
+Válvulas: 32
+Consumo promedio (km/l): 6.8
+Dimensiones (mm): "6353x2375x2131"
+Precio (USD): $60000
+
+Marca: Toyota
+Modelo: Tacoma TRD Pro
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 3956
+Potencia (hp): 278
+Torque (Nm): 460
+Válvulas: 24
+Consumo promedio (km/l): 7.8
+Dimensiones (mm): "5285x1915x1796"
+Precio (USD): $42000
+
+Marca: Mitsubishi
+Modelo: L200 Triton
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 2442
+Potencia (hp): 178
+Torque (Nm): 430
+Válvulas: 16
+Consumo promedio (km/l): 13.5
+Dimensiones (mm): "5280x1815x1780"
+Precio (USD): $31000
+
+Marca: GMC
+Modelo: Sierra 2500HD
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 6599
+Potencia (hp): 445
+Torque (Nm): 1233
+Válvulas: 32
+Consumo promedio (km/l): 6.8
+Dimensiones (mm): "6446x2375x2131"
+Precio (USD): $62000
+
+Marca: Ford
+Modelo: Ranger FX4 Max
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 1999
+Potencia (hp): 270
+Torque (Nm): 310
+Válvulas: 16
+Consumo promedio (km/l): 10.0
+Dimensiones (mm): "5426x1860x1848"
+Precio (USD): $35000
+
+Marca: Chevrolet
+Modelo: Colorado ZR2
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 2200
+Potencia (hp): 200
+Torque (Nm): 500
+Válvulas: 16
+Consumo promedio (km/l): 11.0
+Dimensiones (mm): "5375x1870x1790"
+Precio (USD): $34000
+
+Marca: Nissan
+Modelo: Navara N-Trek Warrior
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 2298
+Potencia (hp): 190
+Torque (Nm): 450
+Válvulas: 16
+Consumo promedio (km/l): 12.5
+Dimensiones (mm): "5255x1850x1840"
+Precio (USD): $36000
+
+Marca: Toyota
+Modelo: Hilux GR Sport
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 2755
+Potencia (hp): 201
+Torque (Nm): 500
+Válvulas: 16
+Consumo promedio (km/l): 12.0
+Dimensiones (mm): "5330x1855x1815"
+Precio (USD): $37000
+
+Marca: Ford
+Modelo: F-350
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 6742
+Potencia (hp): 475
+Torque (Nm): 1068
+Válvulas: 32
+Consumo promedio (km/l): 6.0
+Dimensiones (mm): "6457x2200x2057"
+Precio (USD): $62000
+
+Marca: Ram
+Modelo: 3500
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 6690
+Potencia (hp): 400
+Torque (Nm): 1356
+Válvulas: 32
+Consumo promedio (km/l): 5.5
+Dimensiones (mm): "6434x2088x1986"
+Precio (USD): $64000
+
+Marca: GMC
+Modelo: Canyon AT4
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 3600
+Potencia (hp): 308
+Torque (Nm): 373
+Válvulas: 24
+Consumo promedio (km/l): 9.0
+Dimensiones (mm): "5405x1874x1780"
+Precio (USD): $39000
+
+Marca: Toyota
+Modelo: Tundra TRD Pro
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 5663
+Potencia (hp): 381
+Torque (Nm): 544
+Válvulas: 32
+Consumo promedio (km/l): 7.2
+Dimensiones (mm): "5814x2007x1930"
+Precio (USD): $49000
+
+Marca: Chevrolet
+Modelo: Silverado Modelo: 3500HD
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 6599
+Potencia (hp): 445
+Torque (Nm): 1233
+Válvulas: 32
+Consumo promedio (km/l): 6.5
+Dimensiones (mm): "6753x2375x2131"
+Precio (USD): $66000
+
+Marca: Ford
+Modelo: Modelo: Ranger Raptor X
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 1996
+Potencia (hp): 210
+Torque (Nm): 500
+Válvulas: 16
+Consumo promedio (km/l): 9.5
+Dimensiones (mm): "5616x2180x1873"
+Precio (USD): $49000
+
+Marca: Nissan
+Modelo: Frontier Pro-4X
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 2298
+Potencia (hp): 187
+Torque (Nm): 450
+Válvulas: 16
+Consumo promedio (km/l): 12.8
+Dimensiones (mm): "5279x1850x1790"
+Precio (USD): $35000
+
+Marca: GMC
+Modelo: Sierra Denali
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 5328
+Potencia (hp): 355
+Torque (Nm): 519
+Válvulas: 16
+Consumo promedio (km/l): 9.5
+Dimensiones (mm): "5879x2066x1869"
+Precio (USD): $48000
+
+Marca: Toyota
+Modelo: Hilux Rogue
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 2755
+Potencia (hp): 201
+Torque (Nm): 500
+Válvulas: 16
+Consumo promedio (km/l): 11.0
+Dimensiones (mm): "5330x1855x1815"
+Precio (USD): $36000
+
+Marca: Ford
+Modelo: F-450
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 6742
+Potencia (hp): 475
+Torque (Nm): 1068
+Válvulas: 32
+Consumo promedio (km/l): 6.2
+Dimensiones (mm): "6565x2200x2057"
+Precio (USD): $65000
+
+Marca: Chevrolet
+Modelo: Silverado Trail Boss
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 6599
+Potencia (hp): 445
+Torque (Nm): 1233
+Válvulas: 32
+Consumo promedio (km/l): 7.0
+Dimensiones (mm): "6353x2375x2131"
+Precio (USD): $58000
+
+Marca: Nissan
+Modelo: Titan Pro-4X
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 5552
+Potencia (hp): 400
+Torque (Nm): 565
+Válvulas: 32
+Consumo promedio (km/l): 7.2
+Dimensiones (mm): "5780x2045x1977"
+Precio (USD): $52000
+
+Marca: Isuzu
+Modelo: D-Max X-Terrain
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 1898
+Potencia (hp): 160
+Torque (Nm): 360
+Válvulas: 16
+Consumo promedio (km/l): 14.5
+Dimensiones (mm): "5295x1860x1780"
+Precio (USD): $31000
+
+Marca: Ford
+Modelo: Ranger Wildtrak
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 1999
+Potencia (hp): 270
+Torque (Nm): 310
+Válvulas: 16
+Consumo promedio (km/l): 9.8
+Dimensiones (mm): "5426x1860x1848"
+Precio (USD): $38000
+
+Marca: Honda
+Modelo: Ridgeline Black Edition
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 3471
+Potencia (hp): 280
+Torque (Nm): 355
+Válvulas: 24
+Consumo promedio (km/l): 8.2
+Dimensiones (mm): "5399x1976x1801"
+Precio (USD): $42000
+
+Marca: Ram
+Modelo: 1500 TRX
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 6200
+Potencia (hp): 702
+Torque (Nm): 881
+Válvulas: 32
+Consumo promedio (km/l): 6.0
+Dimensiones (mm): "5891x2085x1950"
+Precio (USD): $70000
+
+Marca: Chevrolet
+Modelo: Silverado 2500HD
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 6599
+Potencia (hp): 445
+Torque (Nm): 1233
+Válvulas: 32
+Consumo promedio (km/l): 6.7
+Dimensiones (mm): "6353x2375x2131"
+Precio (USD): $62000
+
+Marca: Toyota
+Modelo: Tacoma Nightshade
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 3956
+Potencia (hp): 278
+Torque (Nm): 460
+Válvulas: 24
+Consumo promedio (km/l): 8.2
+Dimensiones (mm): "5285x1915x1796"
+Precio (USD): $44000
+
+Marca: Mitsubishi
+Modelo: L200 Triton Athlete
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 2442
+Potencia (hp): 178
+Torque (Nm): 430
+Válvulas: 16
+Consumo promedio (km/l): 14.0
+Dimensiones (mm): "5280x1815x1780"
+Precio (USD): $32000
+
+Marca: GMC
+Modelo: Sierra AT4
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 5328
+Potencia (hp): 355
+Torque (Nm): 519
+Válvulas: 16
+Consumo promedio (km/l): 9.8
+Dimensiones (mm): "5879x2066x1869"
+Precio (USD): $50000
+
+Marca: Ford
+Modelo: F-250 Super Duty
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 6742
+Potencia (hp): 475
+Torque (Nm): 1068
+Válvulas: 32
+Consumo promedio (km/l): 6.0
+Dimensiones (mm): "6166x2060x2030"
+Precio (USD): $60000
+
+Marca: Ram
+Modelo: 2500 Power Wagon
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 6700
+Potencia (hp): 410
+Torque (Nm): 582
+Válvulas: 32
+Consumo promedio (km/l): 7.0
+Dimensiones (mm): "6377x2088x1986"
+Precio (USD): $58000
+
+Marca: Chevrolet
+Modelo: Silverado 1500
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 6599
+Potencia (hp): 445
+Torque (Nm): 1233
+Válvulas: 32
+Consumo promedio (km/l): 7.5
+Dimensiones (mm): "6333x2375x2131"
+Precio (USD): $56000
+
+Marca: Toyota
+Modelo: Tundra Limited
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 5663
+Potencia (hp): 381
+Torque (Nm): 544
+Válvulas: 32
+Consumo promedio (km/l): 7.0
+Dimensiones (mm): "5814x2007x1930"
+Precio (USD): $52000
+
+Marca: GMC
+Modelo: Canyon Denali
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 3600
+Potencia (hp): 308
+Torque (Nm): 373
+Válvulas: 24
+Consumo promedio (km/l): 9.2
+Dimensiones (mm): "5405x1874x1780"
+Precio (USD): $41000
+
+Marca: Ford
+Modelo: Ranger Thunder
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 1996
+Potencia (hp): 210
+Torque (Nm): 500
+Válvulas: 16
+Consumo promedio (km/l): 10.5
+Dimensiones (mm): "5616x2180x1873"
+Precio (USD): $42000
+
+Marca: Nissan
+Modelo: Navara Warrior
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 2298
+Potencia (hp): 190
+Torque (Nm): 450
+Válvulas: 16
+Consumo promedio (km/l): 12.2
+Dimensiones (mm): "5255x1850x1840"
+Precio (USD): $37000
+
+Marca: Toyota
+Modelo: Hilux Rugged X
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 2755
+Potencia (hp): 201
+Torque (Nm): 500
+Válvulas: 16
+Consumo promedio (km/l): 11.2
+Dimensiones (mm): "5330x1855x1815"
+Precio (USD): $37000
+
+Marca: Ford
+Modelo: F-350 Super Duty
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 6742
+Potencia (hp): 475
+Torque (Nm): 1068
+Válvulas: 32
+Consumo promedio (km/l): 6.5
+Dimensiones (mm): "6457x2200x2057"
+Precio (USD): $64000
+
+Marca: Chevrolet
+Modelo: Silverado High Country
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 6599
+Potencia (hp): 445
+Torque (Nm): 1233
+Válvulas: 32
+Consumo promedio (km/l): 7.8
+Dimensiones (mm): "6353x2375x2131"
+Precio (USD): $59000
+
+Marca: Nissan
+Modelo: Titan XD
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 5552
+Potencia (hp): 400
+Torque (Nm): 565
+Válvulas: 32
+Consumo promedio (km/l): 6.8
+Dimensiones (mm): "5780x2045x1977"
+Precio (USD): $54000
+
+Marca: Isuzu
+Modelo: D-Max LS-T
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 1898
+Potencia (hp): 160
+Torque (Nm): 360
+Válvulas: 16
+Consumo promedio (km/l): 15.5
+Dimensiones (mm): "5295x1860x1780"
+Precio (USD): $32000
+
+Marca: Ford
+Modelo: Modelo: Ranger Raptor X Special Edition
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 1996
+Potencia (hp): 210
+Torque (Nm): 500
+Válvulas: 16
+Consumo promedio (km/l): 10.0
+Dimensiones (mm): "5616x2180x1873"
+Precio (USD): $50000
+
+Marca: Chevrolet
+Modelo: Colorado ZR2 Bison
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 2200
+Potencia (hp): 200
+Torque (Nm): 500
+Válvulas: 16
+Consumo promedio (km/l): 10.5
+Dimensiones (mm): "5375x1870x1790"
+Precio (USD): $36000
+
+Marca: Nissan
+Modelo: Navara Pro-4X
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 2298
+Potencia (hp): 190
+Torque (Nm): 450
+Válvulas: 16
+Consumo promedio (km/l): 12.8
+Dimensiones (mm): "5255x1850x1840"
+Precio (USD): $38000
+
+Marca: Toyota
+Modelo: Hilux SR5
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 2755
+Potencia (hp): 201
+Torque (Nm): 500
+Válvulas: 16
+Consumo promedio (km/l): 11.5
+Dimensiones (mm): "5330x1855x1815"
+Precio (USD): $36000
+
+Marca: Ford
+Modelo: F-450 Super Duty
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 6742
+Potencia (hp): 475
+Torque (Nm): 1068
+Válvulas: 32
+Consumo promedio (km/l): 6.2
+Dimensiones (mm): "6565x2200x2057"
+Precio (USD): $66000
+
+Marca: Ram
+Modelo: 3500 Limited
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 6690
+Potencia (hp): 400
+Torque (Nm): 1356
+Válvulas: 32
+Consumo promedio (km/l): 5.8
+Dimensiones (mm): "6434x2088x1986"
+Precio (USD): $66000
+
+Marca: GMC
+Modelo: Canyon Denali Black Diamond
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 3600
+Potencia (hp): 308
+Torque (Nm): 373
+Válvulas: 24
+Consumo promedio (km/l): 9.3
+Dimensiones (mm): "5405x1874x1780"
+Precio (USD): $42000
+
+Marca: Toyota
+Modelo: Tundra TRD Off-Road
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 5663
+Potencia (hp): 381
+Torque (Nm): 544
+Válvulas: 32
+Consumo promedio (km/l): 7.0
+Dimensiones (mm): "5814x2007x1930"
+5000Precio (USD): $0
+
+Marca: Chevrolet
+Modelo: Silverado Custom
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 6599
+Potencia (hp): 445
+Torque (Nm): 1233
+Válvulas: 32
+Consumo promedio (km/l): 7.2
+Dimensiones (mm): "6353x2375x2131"
+Precio (USD): $57000
+
+Marca: Ford
+Modelo: Ranger Wildtrak X
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 1999
+Potencia (hp): 270
+Torque (Nm): 310
+Válvulas: 16
+Consumo promedio (km/l): 9.5
+Dimensiones (mm): "5426x1860x1848"
+Precio (USD): $39000
+
+Marca: Honda
+Modelo: Ridgeline RTL-E
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 3471
+Potencia (hp): 280
+Torque (Nm): 355
+Válvulas: 24
+Consumo promedio (km/l): 8.0
+Dimensiones (mm): "5399x1976x1801"
+Precio (USD): $44000
+
+Marca: Ram
+Modelo: 1500 Warlock
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 5700
+Potencia (hp): 395
+Torque (Nm): 550
+Válvulas: 16
+Consumo promedio (km/l): 8.8
+Dimensiones (mm): "5891x2085x1950"
+Precio (USD): $46000
+
+Marca: Chevrolet
+Modelo: Silverado LT
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 6599
+Potencia (hp): 445
+Torque (Nm): 1233
+Válvulas: 32
+Consumo promedio (km/l): 7.5
+Dimensiones (mm): "6333x2375x2131"
+Precio (USD): $58000
+
+Marca: Toyota
+Modelo: Tacoma Limited
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 3956
+Potencia (hp): 278
+Torque (Nm): 460
+Válvulas: 24
+Consumo promedio (km/l): 8.0
+Dimensiones (mm): "5285x1915x1796"
+Precio (USD): $46000
+
+Marca: Mitsubishi
+Modelo: L200 Triton Athlete Plus
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 2442
+Potencia (hp): 178
+Torque (Nm): 430
+Válvulas: 16
+Consumo promedio (km/l): 14.5
+Dimensiones (mm): "5280x1815x1780"
+Precio (USD): $33000
+
+Marca: GMC
+Modelo: Sierra Elevation
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 5328
+Potencia (hp): 355
+Torque (Nm): 519
+Válvulas: 16
+Consumo promedio (km/l): 9.6
+Dimensiones (mm): "5879x2066x1869"
+Precio (USD): $49000
+
+Marca: Ford
+Modelo: F-250 Lariat
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 6742
+Potencia (hp): 475
+Torque (Nm): 1068
+Válvulas: 32
+Consumo promedio (km/l): 6.8
+Dimensiones (mm): "6166x2060x2030"
+Precio (USD): $58000
+
+Marca: Ram
+Modelo: 2500 Laramie
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 6690
+Potencia (hp): 370
+Torque (Nm): 800
+Válvulas: 32
+Consumo promedio (km/l): 6.0
+Dimensiones (mm): "6377x2088x1986"
+Precio (USD): $60000
+
+Marca: Chevrolet
+Modelo: Silverado RST
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 6599
+Potencia (hp): 445
+Torque (Nm): 1233
+Válvulas: 32
+Consumo promedio (km/l): 7.8
+Dimensiones (mm): "6353x2375x2131"
+Precio (USD): $59000
+
+Marca: Toyota
+Modelo: Tundra Platinum
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 5663
+Potencia (hp): 381
+Torque (Nm): 544
+Válvulas: 32
+Consumo promedio (km/l): 7.2
+Dimensiones (mm): "5814x2007x1930"
+Precio (USD): $53000
+
+Marca: GMC
+Modelo: Canyon AT4 Off-Road Performance Edition
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 3600
+Potencia (hp): 308
+Torque (Nm): 373
+Válvulas: 24
+Consumo promedio (km/l): 9.0
+Dimensiones (mm): "5405x1874x1780"
+Precio (USD): $43000
+
+Marca: Ford
+Modelo: Ranger Thunder X
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 1999
+Potencia (hp): 270
+Torque (Nm): 310
+Válvulas: 16
+Consumo promedio (km/l): 10.2
+Dimensiones (mm): "5616x2180x1873"
+Precio (USD): $40000
+
+Marca: Nissan
+Modelo: Navara Pro-4X Warrior
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 2298
+Potencia (hp): 190
+Torque (Nm): 450
+Válvulas: 16
+Consumo promedio (km/l): 13.0
+Dimensiones (mm): "5255x1850x1840"
+Precio (USD): $39000
+
+Marca: Toyota
+Modelo: Hilux SR
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 2755
+Potencia (hp): 201
+Torque (Nm): 500
+Válvulas: 16
+Consumo promedio (km/l): 11.8
+Dimensiones (mm): "5330x1855x1815"
+Precio (USD): $37000
+
+Marca: Ford
+Modelo: F-350 King Ranch
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 6742
+Potencia (hp): 475
+Torque (Nm): 1068
+Válvulas: 32
+Consumo promedio (km/l): 6.7
+Dimensiones (mm): "6457x2200x2057"
+Precio (USD): $65000
+
+Marca: Ram
+Modelo: 3500 Limited Longhorn
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 6690
+Potencia (hp): 400
+Torque (Nm): 1356
+Válvulas: 32
+Consumo promedio (km/l): 6.5
+Dimensiones (mm): "6434x2088x1986"
+Precio (USD): $68000
+
+Marca: GMC
+Modelo: Canyon Elevation
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 3600
+Potencia (hp): 308
+Torque (Nm): 373
+Válvulas: 24
+Consumo promedio (km/l): 9.2
+Dimensiones (mm): "5405x1874x1780"
+Precio (USD): $44000
+
+Marca: Toyota
+Modelo: Tundra 1794 Edition
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 5663
+Potencia (hp): 381
+Torque (Nm): 544
+Válvulas: 32
+Consumo promedio (km/l): 7.5
+Dimensiones (mm): "5814x2007x1930"
+Precio (USD): $54000
+
+Marca: Chevrolet
+Modelo: Silverado Work Truck
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 6599
+Potencia (hp): 445
+Torque (Nm): 1233
+Válvulas: 32
+Consumo promedio (km/l): 7.0
+Dimensiones (mm): "6353x2375x2131"
+Precio (USD): $56000
+
+Marca: Ford
+Modelo: Ranger FX4
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 1999
+Potencia (hp): 270
+Torque (Nm): 310
+Válvulas: 16
+Consumo promedio (km/l): 9.8
+Dimensiones (mm): "5426x1860x1848"
+Precio (USD): $39000
+
+Marca: Honda
+Modelo: Ridgeline Sport
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 3471
+Potencia (hp): 280
+Torque (Nm): 355
+Válvulas: 24
+Consumo promedio (km/l): 8.2
+Dimensiones (mm): "5399x1976x1801"
+Precio (USD): $43000
+
+Marca: Ram
+Modelo: 1500 Classic
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 5700
+Potencia (hp): 395
+Torque (Nm): 550
+Válvulas: 16
+Consumo promedio (km/l): 8.5
+Dimensiones (mm): "5891x2085x1950"
+Precio (USD): $47000
+
+Marca: Chevrolet
+Modelo: Silverado Custom Trail Boss
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 6599
+Potencia (hp): 445
+Torque (Nm): 1233
+Válvulas: 32
+Consumo promedio (km/l): 7.2
+Dimensiones (mm): "6353x2375x2131"
+Precio (USD): $59000
+
+Marca: Toyota
+Modelo: Tacoma SR5
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 3956
+Potencia (hp): 278
+Torque (Nm): 460
+Válvulas: 24
+Consumo promedio (km/l): 8.2
+Dimensiones (mm): "5285x1915x1796"
+Precio (USD): $46000
+
+Marca: Mitsubishi
+Modelo: L200 Triton GLX
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 2442
+Potencia (hp): 178
+Torque (Nm): 430
+Válvulas: 16
+Consumo promedio (km/l): 14.0
+Dimensiones (mm): "5280x1815x1780"
+Precio (USD): $32000
+
+Marca: GMC
+Modelo: Sierra SLE
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 5328
+Potencia (hp): 355
+Torque (Nm): 519
+Válvulas: 16
+Consumo promedio (km/l): 9.8
+Dimensiones (mm): "5879x2066x1869"
+Precio (USD): $49000
+
+Marca: Ford
+Modelo: F-250 XLT
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 6742
+Potencia (hp): 475
+Torque (Nm): 1068
+Válvulas: 32
+Consumo promedio (km/l): 6.8
+Dimensiones (mm): "6166x2060x2030"
+Precio (USD): $58000
+
+Marca: Ram
+Modelo: 2500 Big Horn
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 6690
+Potencia (hp): 370
+Torque (Nm): 800
+Válvulas: 32
+Consumo promedio (km/l): 6.0
+Dimensiones (mm): "6377x2088x1986"
+Precio (USD): $60000
+
+Marca: Chevrolet
+Modelo: Silverado LTZ
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 6599
+Potencia (hp): 445
+Torque (Nm): 1233
+Válvulas: 32
+Consumo promedio (km/l): 6.7
+Dimensiones (mm): "6353x2375x2131"
+Precio (USD): $62000
+
+Marca: Toyota
+Modelo: Tundra TRD Sport
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 5663
+Potencia (hp): 381
+Torque (Nm): 544
+Válvulas: 32
+Consumo promedio (km/l): 7.0
+Dimensiones (mm): "5814x2007x1930"
+Precio (USD): $50000
+
+Marca: GMC
+Modelo: Canyon Elevation Standard
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 3600
+Potencia (hp): 308
+Torque (Nm): 373
+Válvulas: 24
+Consumo promedio (km/l): 9.2
+Dimensiones (mm): "5405x1874x1780"
+Precio (USD): $44000
+
+Marca: Ford
+Modelo: Ranger Black Edition
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 1999
+Potencia (hp): 270
+Torque (Nm): 310
+Válvulas: 16
+Consumo promedio (km/l): 10.2
+Dimensiones (mm): "5616x2180x1873"
+Precio (USD): $40000
+
+Marca: Nissan
+Modelo: Navara SL
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 2298
+Potencia (hp): 190
+Torque (Nm): 450
+Válvulas: 16
+Consumo promedio (km/l): 13.0
+Dimensiones (mm): "5255x1850x1840"
+Precio (USD): $39000
+
+Marca: Toyota
+Modelo: Hilux Workmate
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 2755
+Potencia (hp): 201
+Torque (Nm): 500
+Válvulas: 16
+Consumo promedio (km/l): 11.8
+Dimensiones (mm): "5330x1855x1815"
+Precio (USD): $37000
+
+Marca: Ford
+Modelo: F-350 Platinum
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 6742
+Potencia (hp): 475
+Torque (Nm): 1068
+Válvulas: 32
+Consumo promedio (km/l): 6.7
+Dimensiones (mm): "6457x2200x2057"
+Precio (USD): $65000
+
+Marca: Ram
+Modelo: 3500 Laramie Longhorn
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 6690
+Potencia (hp): 400
+Torque (Nm): 1356
+Válvulas: 32
+Consumo promedio (km/l): 6.5
+Dimensiones (mm): "6434x2088x1986"
+Precio (USD): $68000
+
+Marca: GMC
+Modelo: Canyon AT4X
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 3600
+Potencia (hp): 308
+Torque (Nm): 373
+Válvulas: 24
+Consumo promedio (km/l): 9.0
+Dimensiones (mm): "5405x1874x1780"
+Precio (USD): $43000
+
+Marca: Toyota
+Modelo: Tundra TRD Pro Double Cab
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 5663
+Potencia (hp): 381
+Torque (Nm): 544
+Válvulas: 32
+Consumo promedio (km/l): 7.5
+Dimensiones (mm): "5814x2007x1930"
+Precio (USD): $53000
+
+Marca: Chevrolet
+Modelo: Silverado LT Trail Boss
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 6599
+Potencia (hp): 445
+Torque (Nm): 1233
+Válvulas: 32
+Consumo promedio (km/l): 7.8
+Dimensiones (mm): "6353x2375x2131"
+Precio (USD): $59000
+
+Marca: Ford
+Modelo: Ranger XL
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 1999
+Potencia (hp): 270
+Torque (Nm): 310
+Válvulas: 16
+Consumo promedio (km/l): 9.8
+Dimensiones (mm): "5426x1860x1848"
+Precio (USD): $39000
+
+Marca: Honda
+Modelo: Ridgeline RTL
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 3471
+Potencia (hp): 280
+Torque (Nm): 355
+Válvulas: 24
+Consumo promedio (km/l): 8.0
+Dimensiones (mm): "5399x1976x1801"
+Precio (USD): $44000
+
+Marca: Ram
+Modelo: 1500 Lone Star
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 5700
+Potencia (hp): 395
+Torque (Nm): 550
+Válvulas: 16
+Consumo promedio (km/l): 8.5
+Dimensiones (mm): "5891x2085x1950"
+Precio (USD): $47000
+
+Marca: Chevrolet
+Modelo: Silverado Custom Trail Boss Midnight Edition
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 6599
+Potencia (hp): 445
+Torque (Nm): 1233
+Válvulas: 32
+Consumo promedio (km/l): 7.2
+Dimensiones (mm): "6353x2375x2131"
+Precio (USD): $59000
+
+Marca: Toyota
+Modelo: Tacoma TRD Sport
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 3956
+Potencia (hp): 278
+Torque (Nm): 460
+Válvulas: 24
+Consumo promedio (km/l): 8.2
+Dimensiones (mm): "5285x1915x1796"
+Precio (USD): $46000
+
+Marca: Mitsubishi
+Modelo: L200 Triton GLS
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 2442
+Potencia (hp): 178
+Torque (Nm): 430
+Válvulas: 16
+Consumo promedio (km/l): 14.0
+Dimensiones (mm): "5280x1815x1780"
+Precio (USD): $32000
+
+Marca: GMC
+Modelo: Sierra Denali Ultimate
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 5328
+Potencia (hp): 355
+Torque (Nm): 519
+Válvulas: 16
+Consumo promedio (km/l): 9.8
+Dimensiones (mm): "5879x2066x1869"
+Precio (USD): $50000
+
+Marca: Ford
+Modelo: F-250 King Ranch
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 6742
+Potencia (hp): 475
+Torque (Nm): 1068
+Válvulas: 32
+Consumo promedio (km/l): 6.8
+Dimensiones (mm): "6166x2060x2030"
+Precio (USD): $58000
+
+Marca: Ram
+Modelo: 2500 Laramie Night Edition
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 6690
+Potencia (hp): 370
+Torque (Nm): 800
+Válvulas: 32
+Consumo promedio (km/l): 6.0
+Dimensiones (mm): "6377x2088x1986"
+Precio (USD): $60000
+
+Marca: Chevrolet
+Modelo: Silverado LTZ Premium
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 6599
+Potencia (hp): 445
+Torque (Nm): 1233
+Válvulas: 32
+Consumo promedio (km/l): 6.7
+Dimensiones (mm): "6353x2375x2131"
+Precio (USD): $62000
+
+Marca: Toyota
+Modelo: Tundra SR5
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 5663
+Potencia (hp): 381
+Torque (Nm): 544
+Válvulas: 32
+Consumo promedio (km/l): 7.0
+Dimensiones (mm): "5814x2007x1930"
+Precio (USD): $50000
+
+Marca: GMC
+Modelo: Canyon Elevation Standard Black Diamond
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 3600
+Potencia (hp): 308
+Torque (Nm): 373
+Válvulas: 24
+Consumo promedio (km/l): 9.2
+Dimensiones (mm): "5405x1874x1780"
+Precio (USD): $44000
+
+Marca: Ford
+Modelo: Modelo: Ranger Raptor X Special Edition
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 1999
+Potencia (hp): 270
+Torque (Nm): 310
+Válvulas: 16
+Consumo promedio (km/l): 10.2
+Dimensiones (mm): "5616x2180x1873"
+Precio (USD): $40000
+
+Marca: Nissan
+Modelo: Navara SL King Cab
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 2298
+Potencia (hp): 190
+Torque (Nm): 450
+Válvulas: 16
+Consumo promedio (km/l): 13.0
+Dimensiones (mm): "5255x1850x1840"
+Precio (USD): $39000
+
+Marca: Toyota
+Modelo: Hilux Workmate Single Cab
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 2755
+Potencia (hp): 201
+Torque (Nm): 500
+Válvulas: 16
+Consumo promedio (km/l): 11.8
+Dimensiones (mm): "5330x1855x1815"
+Precio (USD): $37000
+
+Marca: Ford
+Modelo: F-350 Platinum Crew Cab
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 6742
+Potencia (hp): 475
+Torque (Nm): 1068
+Válvulas: 32
+Consumo promedio (km/l): 6.7
+Dimensiones (mm): "6457x2200x2057"
+Precio (USD): $65000
+
+Marca: Ram
+Modelo: 3500 Laramie Longhorn Mega Cab
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 6690
+Potencia (hp): 400
+Torque (Nm): 1356
+Válvulas: 32
+Consumo promedio (km/l): 6.5
+Dimensiones (mm): "6434x2088x1986"
+Precio (USD): $68000
+
+Marca: GMC
+Modelo: Canyon AT4X Bison Edition
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 3600
+Potencia (hp): 308
+Torque (Nm): 373
+Válvulas: 24
+Consumo promedio (km/l): 9.0
+Dimensiones (mm): "5405x1874x1780"
+Precio (USD): $43000
+
+Marca: Toyota
+Modelo: Tundra TRD Pro Double Cab Nightshade Edition
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 5663
+Potencia (hp): 381
+Torque (Nm): 544
+Válvulas: 32
+Consumo promedio (km/l): 7.5
+Dimensiones (mm): "5814x2007x1930"
+Precio (USD): $53000
+
+Marca: Chevrolet
+Modelo: Silverado LT Trail Boss Midnight Edition
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 6599
+Potencia (hp): 445
+Torque (Nm): 1233
+Válvulas: 32
+Consumo promedio (km/l): 7.8
+Dimensiones (mm): "6353x2375x2131"
+Precio (USD): $59000
+
+Marca: Ford
+Modelo: Ranger XL SuperCab
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 1999
+Potencia (hp): 270
+Torque (Nm): 310
+Válvulas: 16
+Consumo promedio (km/l): 9.8
+Dimensiones (mm): "5426x1860x1848"
+Precio (USD): $39000
+
+Marca: Honda
+Modelo: Ridgeline Sport AWD
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 3471
+Potencia (hp): 280
+Torque (Nm): 355
+Válvulas: 24
+Consumo promedio (km/l): 8.0
+Dimensiones (mm): "5399x1976x1801"
+Precio (USD): $44000
+
+Marca: Ram
+Modelo: 1500 Lone Star Quad Cab
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 5700
+Potencia (hp): 395
+Torque (Nm): 550
+Válvulas: 16
+Consumo promedio (km/l): 8.5
+Dimensiones (mm): "5891x2085x1950"
+Precio (USD): $47000
+
+Marca: Chevrolet
+Modelo: Silverado Custom Trail Boss Midnight Edition
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 6599
+Potencia (hp): 445
+Torque (Nm): 1233
+Válvulas: 32
+Consumo promedio (km/l): 7.2
+Dimensiones (mm): "6353x2375x2131"
+Precio (USD): $59000
+
+Marca: Toyota
+Modelo: Tacoma TRD Sport
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 3956
+Potencia (hp): 278
+Torque (Nm): 460
+Válvulas: 24
+Consumo promedio (km/l): 8.2
+Dimensiones (mm): "5285x1915x1796"
+Precio (USD): $46000
+
+Marca: Mitsubishi
+Modelo: L200 Triton GLS
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 2442
+Potencia (hp): 178
+Torque (Nm): 430
+Válvulas: 16
+Consumo promedio (km/l): 14.0
+Dimensiones (mm): "5280x1815x1780"
+Precio (USD): $32000
+
+Marca: GMC
+Modelo: Sierra Denali Ultimate
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 5328
+Potencia (hp): 355
+Torque (Nm): 519
+Válvulas: 16
+Consumo promedio (km/l): 9.8
+Dimensiones (mm): "5879x2066x1869"
+Precio (USD): $50000
+
+Marca: Ford
+Modelo: F-250 King Ranch
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 6742
+Potencia (hp): 475
+Torque (Nm): 1068
+Válvulas: 32
+Consumo promedio (km/l): 6.8
+Dimensiones (mm): "6166x2060x2030"
+Precio (USD): $58000
+
+Marca: Ram
+Modelo: 2500 Laramie Night Edition
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 6690
+Potencia (hp): 370
+Torque (Nm): 800
+Válvulas: 32
+Consumo promedio (km/l): 6.0
+Dimensiones (mm): "6377x2088x1986"
+Precio (USD): $60000
+
+Marca: Chevrolet
+Modelo: Silverado LTZ Premium
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 6599
+Potencia (hp): 445
+Torque (Nm): 1233
+Válvulas: 32
+Consumo promedio (km/l): 6.7
+Dimensiones (mm): "6353x2375x2131"
+Precio (USD): $62000
+
+Marca: Toyota
+Modelo: Tundra SR5
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 5663
+Potencia (hp): 381
+Torque (Nm): 544
+Válvulas: 32
+Consumo promedio (km/l): 7.0
+Dimensiones (mm): "5814x2007x1930"
+Precio (USD): $50000
+
+Marca: GMC
+Modelo: Canyon Elevation Standard Black Diamond
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 3600
+Potencia (hp): 308
+Torque (Nm): 373
+Válvulas: 24
+Consumo promedio (km/l): 9.2
+Dimensiones (mm): "5405x1874x1780"
+Precio (USD): $44000
+
+Marca: Ford
+Modelo: Modelo: Ranger Raptor X Special Edition
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 1999
+Potencia (hp): 270
+Torque (Nm): 310
+Válvulas: 16
+Consumo promedio (km/l): 10.2
+Dimensiones (mm): "5616x2180x1873"
+Precio (USD): $40000
+
+Marca: Nissan
+Modelo: Navara SL King Cab
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 2298
+Potencia (hp): 190
+Torque (Nm): 450
+Válvulas: 16
+Consumo promedio (km/l): 13.0
+Dimensiones (mm): "5255x1850x1840"
+Precio (USD): $39000
+
+Marca: Toyota
+Modelo: Hilux Workmate Single Cab
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 2755
+Potencia (hp): 201
+Torque (Nm): 500
+Válvulas: 16
+Consumo promedio (km/l): 11.8
+Dimensiones (mm): "5330x1855x1815"
+Precio (USD): $37000
+
+Marca: Ford
+Modelo: F-350 Platinum Crew Cab
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 6742
+Potencia (hp): 475
+Torque (Nm): 1068
+Válvulas: 32
+Consumo promedio (km/l): 6.7
+Dimensiones (mm): "6457x2200x2057"
+Precio (USD): $65000
+
+Marca: Ram
+Modelo: 3500 Laramie Longhorn Mega Cab
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 6690
+Potencia (hp): 400
+Torque (Nm): 1356
+Válvulas: 32
+Consumo promedio (km/l): 6.5
+Dimensiones (mm): "6434x2088x1986"
+Precio (USD): $68000
+
+Marca: GMC
+Modelo: Canyon AT4X Bison Edition
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 3600
+Potencia (hp): 308
+Torque (Nm): 373
+Válvulas: 24
+Consumo promedio (km/l): 9.0
+Dimensiones (mm): "5405x1874x1780"
+Precio (USD): $43000
+
+Marca: Toyota
+Modelo: Tundra TRD Pro Double Cab Nightshade Edition
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 5663
+Potencia (hp): 381
+Torque (Nm): 544
+Válvulas: 32
+Consumo promedio (km/l): 7.5
+Dimensiones (mm): "5814x2007x1930"
+Precio (USD): $53000
+
+Marca: Chevrolet
+Modelo: Silverado LT Trail Boss Midnight Edition
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 6599
+Potencia (hp): 445
+Torque (Nm): 1233
+Válvulas: 32
+Consumo promedio (km/l): 7.8
+Dimensiones (mm): "6353x2375x2131"
+Precio (USD): $59000
+
+Marca: Ford
+Modelo: Ranger XL SuperCab
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 1999
+Potencia (hp): 270
+Torque (Nm): 310
+Válvulas: 16
+Consumo promedio (km/l): 9.8
+Dimensiones (mm): "5426x1860x1848"
+Precio (USD): $39000
+
+Marca: Honda
+Modelo: Ridgeline Sport AWD
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 3471
+Potencia (hp): 280
+Torque (Nm): 355
+Válvulas: 24
+Consumo promedio (km/l): 8.0
+Dimensiones (mm): "5399x1976x1801"
+Precio (USD): $44000
+
+Marca: Ram
+Modelo: 1500 Lone Star Quad Cab
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 5700
+Potencia (hp): 395
+Torque (Nm): 550
+Válvulas: 16
+Consumo promedio (km/l): 8.5
+Dimensiones (mm): "5891x2085x1950"
+Precio (USD): $47000
+
+Marca: Chevrolet
+Modelo: Silverado Custom Trail Boss Midnight Edition
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 6599
+Potencia (hp): 445
+Torque (Nm): 1233
+Válvulas: 32
+Consumo promedio (km/l): 7.2
+Dimensiones (mm): "6353x2375x2131"
+Precio (USD): $59000
+
+Marca: Toyota
+Modelo: Tacoma TRD Sport
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 3956
+Potencia (hp): 278
+Torque (Nm): 460
+Válvulas: 24
+Consumo promedio (km/l): 8.2
+Dimensiones (mm): "5285x1915x1796"
+Precio (USD): $46000
+
+Marca: Mitsubishi
+Modelo: L200 Triton GLS
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 2442
+Potencia (hp): 178
+Torque (Nm): 430
+Válvulas: 16
+Consumo promedio (km/l): 14.0
+Dimensiones (mm): "5280x1815x1780"
+Precio (USD): $32000
+
+Marca: GMC
+Modelo: Sierra Denali Ultimate
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 5328
+Potencia (hp): 355
+Torque (Nm): 519
+Válvulas: 16
+Consumo promedio (km/l): 9.8
+Dimensiones (mm): "5879x2066x1869"
+Precio (USD): $50000
+
+Marca: Ford
+Modelo: F-250 King Ranch
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 6742
+Potencia (hp): 475
+Torque (Nm): 1068
+Válvulas: 32
+Consumo promedio (km/l): 6.8
+Dimensiones (mm): "6166x2060x2030"
+Precio (USD): $58000
+
+Marca: Ram
+Modelo: 2500 Laramie Night Edition
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 6690
+Potencia (hp): 370
+Torque (Nm): 800
+Válvulas: 32
+Consumo promedio (km/l): 6.0
+Dimensiones (mm): "6377x2088x1986"
+Precio (USD): $60000
+
+Marca: Chevrolet
+Modelo: Silverado LTZ Premium
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 6599
+Potencia (hp): 445
+Torque (Nm): 1233
+Válvulas: 32
+Consumo promedio (km/l): 6.7
+Dimensiones (mm): "6353x2375x2131"
+Precio (USD): $62000
+
+Marca: Toyota
+Modelo: Tundra SR5
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 5663
+Potencia (hp): 381
+Torque (Nm): 544
+Válvulas: 32
+Consumo promedio (km/l): 7.0
+Dimensiones (mm): "5814x2007x1930"
+Precio (USD): $50000
+
+Marca: GMC
+Modelo: Canyon Elevation Standard Black Diamond
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 3600
+Potencia (hp): 308
+Torque (Nm): 373
+Válvulas: 24
+Consumo promedio (km/l): 9.2
+Dimensiones (mm): "5405x1874x1780"
+Precio (USD): $44000
+
+Marca: Ford
+Modelo: Ranger Raptor X Special Edition
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 1999
+Potencia (hp): 270
+Torque (Nm): 310
+Válvulas: 16
+Consumo promedio (km/l): 10.2
+Dimensiones (mm): "5616x2180x1873"
+Precio (USD): $40000
+
+Marca: Nissan
+Modelo: Navara SL King Cab
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 2298
+Potencia (hp): 190
+Torque (Nm): 450
+Válvulas: 16
+Consumo promedio (km/l): 13.0
+Dimensiones (mm): "5255x1850x1840"
+Precio (USD): $39000
+
+Marca: Toyota
+Modelo: Hilux Workmate Single Cab
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 2755
+Potencia (hp): 201
+Torque (Nm): 500
+Válvulas: 16
+Consumo promedio (km/l): 11.8
+Dimensiones (mm): "5330x1855x1815"
+Precio (USD): $37000
+
+Marca: Ford
+Modelo: F-350 Platinum Crew Cab
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 6742
+Potencia (hp): 475
+Torque (Nm): 1068
+Válvulas: 32
+Consumo promedio (km/l): 6.7
+Dimensiones (mm): "6457x2200x2057"
+Precio (USD): $65000
+
+Marca: Ram
+Modelo: 3500 Laramie Longhorn Mega Cab
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 6690
+Potencia (hp): 400
+Torque (Nm): 1356
+Válvulas: 32
+Consumo promedio (km/l): 6.5
+Dimensiones (mm): "6434x2088x1986"
+Precio (USD): $68000
+
+Marca: GMC
+Modelo: Canyon AT4X Bison Edition
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 3600
+Potencia (hp): 308
+Torque (Nm): 373
+Válvulas: 24
+Consumo promedio (km/l): 9.0
+Dimensiones (mm): "5405x1874x1780"
+Precio (USD): $43000
+
+Marca: Toyota
+Modelo: Tundra TRD Pro Double Cab Nightshade Edition
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 5663
+Potencia (hp): 381
+Torque (Nm): 544
+Válvulas: 32
+Consumo promedio (km/l): 7.5
+Dimensiones (mm): "5814x2007x1930"
+Precio (USD): $53000
+
+Marca: Chevrolet
+Modelo: Silverado LT Trail Boss Midnight Edition
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 6599
+Potencia (hp): 445
+Torque (Nm): 1233
+Válvulas: 32
+Consumo promedio (km/l): 7.8
+Dimensiones (mm): "6353x2375x2131"
+Precio (USD): $59000
+
+Marca: Ford
+Modelo: Ranger XL SuperCab
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 1999
+Potencia (hp): 270
+Torque (Nm): 310
+Válvulas: 16
+Consumo promedio (km/l): 9.8
+Dimensiones (mm): "5426x1860x1848"
+Precio (USD): $39000
+
+Marca: Honda
+Modelo: Ridgeline Sport AWD
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 3471
+Potencia (hp): 280
+Torque (Nm): 355
+Válvulas: 24
+Consumo promedio (km/l): 8.0
+Dimensiones (mm): "5399x1976x1801"
+Precio (USD): $44000
+
+Marca: Ram
+Modelo: 1500 Lone Star Quad Cab
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 5700
+Potencia (hp): 395
+Torque (Nm): 550
+Válvulas: 16
+Consumo promedio (km/l): 8.5
+Dimensiones (mm): "5891x2085x1950"
+Precio (USD): $47000
+
+Marca: Chevrolet
+Modelo: Silverado Custom Trail Boss Midnight Edition
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 6599
+Potencia (hp): 445
+Torque (Nm): 1233
+Válvulas: 32
+Consumo promedio (km/l): 7.2
+Dimensiones (mm): "6353x2375x2131"
+Precio (USD): $59000
+
+Marca: Toyota
+Modelo: Tacoma TRD Sport
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 3956
+Potencia (hp): 278
+Torque (Nm): 460
+Válvulas: 24
+Consumo promedio (km/l): 8.2
+Dimensiones (mm): "5285x1915x1796"
+Precio (USD): $46000
+
+Marca: Mitsubishi
+Modelo: L200 Triton GLS
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 2442
+Potencia (hp): 178
+Torque (Nm): 430
+Válvulas: 16
+Consumo promedio (km/l): 14.0
+Dimensiones (mm): "5280x1815x1780"
+Precio (USD): $32000
+
+Marca: GMC
+Modelo: Sierra Denali Ultimate
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 5328
+Potencia (hp): 355
+Torque (Nm): 519
+Válvulas: 16
+Consumo promedio (km/l): 9.8
+Dimensiones (mm): "5879x2066x1869"
+Precio (USD): $50000
+
+Marca: Ford
+Modelo: F-250 King Ranch
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 6742
+Potencia (hp): 475
+Torque (Nm): 1068
+Válvulas: 32
+Consumo promedio (km/l): 6.8
+Dimensiones (mm): "6166x2060x2030"
+Precio (USD): $58000
+
+Marca: Ram
+Modelo: 2500 Laramie Night Edition
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 6690
+Potencia (hp): 370
+Torque (Nm): 800
+Válvulas: 32
+Consumo promedio (km/l): 6.0
+Dimensiones (mm): "6377x2088x1986"
+Precio (USD): $60000
+
+Marca: Chevrolet
+Modelo: Silverado LTZ Premium
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 6599
+Potencia (hp): 445
+Torque (Nm): 1233
+Válvulas: 32
+Consumo promedio (km/l): 6.7
+"6353x2375x2131"
+62000
+
+Marca: Toyota
+Modelo: Tundra SR5
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 5663
+Potencia (hp): 381
+Torque (Nm): 544
+Válvulas: 32
+Consumo promedio (km/l): 7.0
+Dimensiones (mm): "5814x2007x1930"
+Precio (USD): $50000
+
+Marca: GMC
+Modelo: Canyon Elevation Standard Black Diamond
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 3600
+Potencia (hp): 308
+Torque (Nm): 373
+Válvulas: 24
+Consumo promedio (km/l): 9.2
+Dimensiones (mm): "5405x1874x1780"
+Precio (USD): $44000
+
+Marca: Ford
+Modelo: Modelo: Ranger Raptor X Special Edition
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 1999
+Potencia (hp): 270
+Torque (Nm): 310
+Válvulas: 16
+Consumo promedio (km/l): 10.2
+Dimensiones (mm): "5616x2180x1873"
+Precio (USD): $40000
+
+Marca: Nissan
+Modelo: Navara SL King Cab
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 2298
+Potencia (hp): 190
+Torque (Nm): 450
+Válvulas: 16
+Consumo promedio (km/l): 13.0
+Dimensiones (mm): "5255x1850x1840"
+Precio (USD): $39000
+
+Marca: Toyota
+Modelo: Hilux Workmate Single Cab
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 2755
+Potencia (hp): 201
+Torque (Nm): 500
+Válvulas: 16
+Consumo promedio (km/l): 11.8
+Dimensiones (mm): "5330x1855x1815"
+Precio (USD): $37000
+
+Marca: Ford
+Modelo: F-350 Platinum Crew Cab
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 6742
+Potencia (hp): 475
+Torque (Nm): 1068
+Válvulas: 32
+Consumo promedio (km/l): 6.7
+Dimensiones (mm): "6457x2200x2057"
+Precio (USD): $65000
+
+Marca: Ram
+Modelo: 3500 Laramie Longhorn Mega Cab
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 6690
+Potencia (hp): 400
+Torque (Nm): 1356
+Válvulas: 32
+Consumo promedio (km/l): 6.5
+Dimensiones (mm): "6434x2088x1986"
+Precio (USD): $68000
+
+Marca: GMC
+Modelo: Canyon AT4X Bison Edition
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 3600
+Potencia (hp): 308
+Torque (Nm): 373
+Válvulas: 24
+Consumo promedio (km/l): 9.0
+Dimensiones (mm): "5405x1874x1780"
+Precio (USD): $43000
+
+Marca: Toyota
+Modelo: Tundra TRD Pro Double Cab Nightshade Edition
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 5663
+Potencia (hp): 381
+Torque (Nm): 544
+Válvulas: 32
+Consumo promedio (km/l): 7.5
+Dimensiones (mm): "5814x2007x1930"
+Precio (USD): $53000
+
+Marca: Chevrolet
+Modelo: Silverado LT Trail Boss Midnight Edition
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 6599
+Potencia (hp): 445
+Torque (Nm): 1233
+Válvulas: 32
+Consumo promedio (km/l): 7.8
+Dimensiones (mm): "6353x2375x2131"
+Precio (USD): $59000
+
+Marca: Ford
+Modelo: Ranger XL SuperCab
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 1999
+Potencia (hp): 270
+Torque (Nm): 310
+Válvulas: 16
+Consumo promedio (km/l): 9.8
+Dimensiones (mm): "5426x1860x1848"
+Precio (USD): $39000
+
+Marca: Honda
+Modelo: Ridgeline Sport AWD
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 3471
+Potencia (hp): 280
+Torque (Nm): 355
+Válvulas: 24
+Consumo promedio (km/l): 8.0
+Dimensiones (mm): "5399x1976x1801"
+Precio (USD): $44000
+
+Marca: Ram
+Modelo: 1500 Lone Star Quad Cab
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 5700
+Potencia (hp): 395
+Torque (Nm): 550
+Válvulas: 16
+Consumo promedio (km/l): 8.5
+Dimensiones (mm): "5891x2085x1950"
+Precio (USD): $47000
+
+Marca: Chevrolet
+Modelo: Silverado Custom Trail Boss Midnight Edition
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 6599
+Potencia (hp): 445
+Torque (Nm): 1233
+Válvulas: 32
+Consumo promedio (km/l): 7.2
+Dimensiones (mm): "6353x2375x2131"
+Precio (USD): $59000
+
+Marca: Toyota
+Modelo: Tacoma TRD Sport
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 3956
+Potencia (hp): 278
+Torque (Nm): 460
+Válvulas: 24
+Consumo promedio (km/l): 8.2
+Dimensiones (mm): "5285x1915x1796"
+Precio (USD): $46000
+
+Marca: Mitsubishi
+Modelo: L200 Triton GLS
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 2442
+Potencia (hp): 178
+Torque (Nm): 430
+Válvulas: 16
+Consumo promedio (km/l): 14.0
+Dimensiones (mm): "5280x1815x1780"
+Precio (USD): $32000
+
+Marca: GMC
+Modelo: Sierra Denali Ultimate
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 5328
+Potencia (hp): 355
+Torque (Nm): 519
+Válvulas: 16
+Consumo promedio (km/l): 9.8
+Dimensiones (mm): "5879x2066x1869"
+Precio (USD): $50000
+
+Marca: Ford
+Modelo: F-250 King Ranch
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 6742
+Potencia (hp): 475
+Torque (Nm): 1068
+Válvulas: 32
+Consumo promedio (km/l): 6.8
+Dimensiones (mm): "6166x2060x2030"
+Precio (USD): $58000
+
+Marca: Ram
+Modelo: 2500 Laramie Night Edition
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 6690
+Potencia (hp): 370
+Torque (Nm): 800
+Válvulas: 32
+Consumo promedio (km/l): 6.0
+Dimensiones (mm): "6377x2088x1986"
+Precio (USD): $60000
+
+Marca: Chevrolet
+Modelo: Silverado LTZ Premium
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 6599
+Potencia (hp): 445
+Torque (Nm): 1233
+Válvulas: 32
+Consumo promedio (km/l): 6.7
+Dimensiones (mm): "6353x2375x2131"
+Precio (USD): $62000
+
+Marca: Toyota
+Modelo: Tundra SR5
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 5663
+Potencia (hp): 381
+Torque (Nm): 544
+Válvulas: 32
+Consumo promedio (km/l): 7.0
+Dimensiones (mm): "5814x2007x1930"
+Precio (USD): $50000
+
+Marca: GMC
+Modelo: Canyon Elevation Standard Black Diamond
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 3600
+Potencia (hp): 308
+Torque (Nm): 373
+Válvulas: 24
+Consumo promedio (km/l): 9.2
+Dimensiones (mm): "5405x1874x1780"
+Precio (USD): $44000
+
+Marca: Ford
+Modelo: Ranger Raptor X Special Edition
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 1999
+Potencia (hp): 270
+Torque (Nm): 310
+Válvulas: 16
+Consumo promedio (km/l): 10.2
+Dimensiones (mm): "5616x2180x1873"
+Precio (USD): $40000
+
+Marca: Nissan
+Modelo: Navara SL King Cab
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 2298
+Potencia (hp): 190
+Torque (Nm): 450
+Válvulas: 16
+Consumo promedio (km/l): 13.0
+Dimensiones (mm): "5255x1850x1840"
+Precio (USD): $39000
+
+Marca: Toyota
+Modelo: Hilux Workmate Single Cab
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 2755
+Potencia (hp): 201
+Torque (Nm): 500
+Válvulas: 16
+Consumo promedio (km/l): 11.8
+Dimensiones (mm): "5330x1855x1815"
+Precio (USD): $37000
+
+Marca: Ford
+Modelo: F-350 Platinum Crew Cab
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 6742
+Potencia (hp): 475
+Torque (Nm): 1068
+Válvulas: 32
+Consumo promedio (km/l): 6.7
+Dimensiones (mm): "6457x2200x2057"
+Precio (USD): $65000
+
+Marca: Ram
+Modelo: 3500 Laramie Longhorn Mega Cab
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 6690
+Potencia (hp): 400
+Torque (Nm): 1356
+Válvulas: 32
+Consumo promedio (km/l): 6.5
+Dimensiones (mm): "6434x2088x1986"
+Precio (USD): $68000
+
+Marca: GMC
+Modelo: Canyon AT4X Bison Edition
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 3600
+Potencia (hp): 308
+Torque (Nm): 373
+Válvulas: 24
+Consumo promedio (km/l): 9.0
+Dimensiones (mm): "5405x1874x1780"
+Precio (USD): $43000
+
+Marca: Toyota
+Modelo: Tundra TRD Pro Double Cab Nightshade Edition
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 5663
+Potencia (hp): 381
+Torque (Nm): 544
+Válvulas: 32
+Consumo promedio (km/l): 7.5
+Dimensiones (mm): "5814x2007x1930"
+Precio (USD): $53000
+
+Marca: Chevrolet
+Modelo: Silverado LT Trail Boss Midnight Edition
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 6599
+Potencia (hp): 445
+Torque (Nm): 1233
+Válvulas: 32
+Consumo promedio (km/l): 7.8
+Dimensiones (mm): "6353x2375x2131"
+Precio (USD): $59000
+
+Marca: Ford
+Modelo: Ranger XL SuperCab
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 1999
+Potencia (hp): 270
+Torque (Nm): 310
+Válvulas: 16
+Consumo promedio (km/l): 9.8
+Dimensiones (mm): "5426x1860x1848"
+Precio (USD): $39000
+
+Marca: Honda
+Modelo: Ridgeline Sport AWD
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 3471
+Potencia (hp): 280
+Torque (Nm): 355
+Válvulas: 24
+Consumo promedio (km/l): 8.0
+Dimensiones (mm): "5399x1976x1801"
+Precio (USD): $44000
+
+Marca: Ram
+Modelo: 1500 Lone Star Quad Cab
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 5700
+Potencia (hp): 395
+Torque (Nm): 550
+Válvulas: 16
+Consumo promedio (km/l): 8.5
+Dimensiones (mm): "5891x2085x1950"
+Precio (USD): $47000
+
+Marca: Chevrolet
+Modelo: Silverado Custom Trail Boss Midnight Edition
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 6599
+Potencia (hp): 445
+Torque (Nm): 1233
+Válvulas: 32
+Consumo promedio (km/l): 7.2
+Dimensiones (mm): "6353x2375x2131"
+Precio (USD): $59000
+
+Marca: Toyota
+Modelo: Tacoma TRD Sport
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 3956
+Potencia (hp): 278
+Torque (Nm): 460
+Válvulas: 24
+Consumo promedio (km/l): 8.2
+Dimensiones (mm): "5285x1915x1796"
+Precio (USD): $46000
+
+Marca: Mitsubishi
+Modelo: L200 Triton GLS
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 2442
+Potencia (hp): 178
+Torque (Nm): 430
+Válvulas: 16
+Consumo promedio (km/l): 14.0
+Dimensiones (mm): "5280x1815x1780"
+Precio (USD): $32000
+
+Marca: GMC
+Modelo: Sierra Denali Ultimate
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 5328
+Potencia (hp): 355
+Torque (Nm): 519
+Válvulas: 16
+Consumo promedio (km/l): 9.8
+Dimensiones (mm): "5879x2066x1869"
+Precio (USD): $50000
+
+Marca: Ford
+Modelo: F-250 King Ranch
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 6742
+Potencia (hp): 475
+Torque (Nm): 1068
+Válvulas: 32
+Consumo promedio (km/l): 6.8
+Dimensiones (mm): "6166x2060x2030"
+Precio (USD): $58000
+
+Marca: Ram
+Modelo: 2500 Laramie Night Edition
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 6690
+Potencia (hp): 370
+Torque (Nm): 800
+Válvulas: 32
+Consumo promedio (km/l): 6.0
+Dimensiones (mm): "6377x2088x1986"
+Precio (USD): $60000
+
+Marca: Chevrolet
+Modelo: Silverado LTZ Premium
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 6599
+Potencia (hp): 445
+Torque (Nm): 1233
+Válvulas: 32
+Consumo promedio (km/l): 6.7
+Dimensiones (mm): "6353x2375x2131"
+Precio (USD): $62000
+
+Marca: Toyota
+Modelo: Tundra SR5
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 5663
+Potencia (hp): 381
+Torque (Nm): 544
+Válvulas: 32
+Consumo promedio (km/l): 7.0
+Dimensiones (mm): "5814x2007x1930"
+Precio (USD): $50000
+
+Marca: GMC
+Modelo: Canyon Elevation Standard Black Diamond
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 3600
+Potencia (hp): 308
+Torque (Nm): 373
+Válvulas: 24
+Consumo promedio (km/l): 9.2
+Dimensiones (mm): "5405x1874x1780"
+Precio (USD): $44000
+
+Marca: Ford
+Modelo: Modelo: Ranger Raptor X Special Edition
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 1999
+Potencia (hp): 270
+Torque (Nm): 310
+Válvulas: 16
+Consumo promedio (km/l): 10.2
+Dimensiones (mm): "5616x2180x1873"
+Precio (USD): $40000
+
+Marca: Nissan
+Modelo: Navara SL King Cab
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 2298
+Potencia (hp): 190
+Torque (Nm): 450
+Válvulas: 16
+Consumo promedio (km/l): 13.0
+Dimensiones (mm): "5255x1850x1840"
+Precio (USD): $39000
+
+Marca: Toyota
+Modelo: Hilux Workmate Single Cab
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 2755
+Potencia (hp): 201
+Torque (Nm): 500
+Válvulas: 16
+Consumo promedio (km/l): 11.8
+Dimensiones (mm): "5330x1855x1815"
+Precio (USD): $37000
+
+Marca: Ford
+Modelo: F-350 Platinum Crew Cab
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 6742
+Potencia (hp): 475
+Torque (Nm): 1068
+Válvulas: 32
+Consumo promedio (km/l): 6.7
+Dimensiones (mm): "6457x2200x2057"
+Precio (USD): $65000
+
+Marca: Ram
+Modelo: 3500 Laramie Longhorn Mega Cab
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 6690
+Potencia (hp): 400
+Torque (Nm): 1356
+Válvulas: 32
+Consumo promedio (km/l): 6.5
+Dimensiones (mm): "6434x2088x1986"
+Precio (USD): $68000
+
+Marca: GMC
+Modelo: Canyon AT4X Bison Edition
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 3600
+Potencia (hp): 308
+Torque (Nm): 373
+Válvulas: 24
+Consumo promedio (km/l): 9.0
+Dimensiones (mm): "5405x1874x1780"
+Precio (USD): $43000
+
+Marca: Toyota
+Modelo: Tundra TRD Pro Double Cab Nightshade Edition
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 5663
+Potencia (hp): 381
+Torque (Nm): 544
+Válvulas: 32
+Consumo promedio (km/l): 7.5
+Dimensiones (mm): "5814x2007x1930"
+Precio (USD): $53000
+
+Marca: Chevrolet
+Modelo: Silverado LT Trail Boss Midnight Edition
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 6599
+Potencia (hp): 445
+Torque (Nm): 1233
+Válvulas: 32
+Consumo promedio (km/l): 7.8
+Dimensiones (mm): "6353x2375x2131"
+Precio (USD): $59000
+
+Marca: Ford
+Modelo: Ranger XL SuperCab
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 1999
+Potencia (hp): 270
+Torque (Nm): 310
+Válvulas: 16
+Consumo promedio (km/l): 9.8
+"5426x1860x1848"
+39000
+
+Marca: Honda
+Modelo: Ridgeline Sport AWD
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 3471
+Potencia (hp): 280
+Torque (Nm): 355
+Válvulas: 24
+Consumo promedio (km/l): 8.0
+Dimensiones (mm): "5399x1976x1801"
+Precio (USD): $44000
+
+Marca: Ram
+Modelo: 1500 Lone Star Quad Cab
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 5700
+Potencia (hp): 395
+Torque (Nm): 550
+Válvulas: 16
+Consumo promedio (km/l): 8.5
+Dimensiones (mm): "5891x2085x1950"
+Precio (USD): $47000
+
+Marca: Chevrolet
+Modelo: Silverado Custom Trail Boss Midnight Edition
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 6599
+Potencia (hp): 445
+Torque (Nm): 1233
+Válvulas: 32
+Consumo promedio (km/l): 7.2
+Dimensiones (m): "6353x2375x2131"
+Precio (USD): $59000
+
+Marca: Toyota
+Modelo: Tacoma TRD Sport
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 3956
+Potencia (hp): 278
+Torque (Nm): 460
+Válvulas: 24
+Consumo promedio (km/l): 8.2
+Dimensiones (mm): "5285x1915x1796"
+Precio (USD): $46000
+
+Marca: Mitsubishi
+Modelo: L200 Triton GLS
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 2442
+Potencia (hp): 178
+Torque (Nm): 430
+Válvulas: 16
+Consumo promedio (km/l): 14.0
+Dimensiones (mm): "5280x1815x1780"
+Precio (USD): $32000
+
+Marca: GMC
+Modelo: Sierra Denali Ultimate
+Año: 2023
+Combustible: Gasolina
+Cilindrada (cc): 5328
+Potencia (hp): 355
+Torque (Nm): 519
+Válvulas: 16
+Consumo promedio (km/l): 9.8
+Dimensiones (mm): "5879x2066x1869"
+Precio (USD): $50000
+
+Marca: Ford
+Modelo: F-250 King Ranch
+Año: 2024
+Combustible: Diesel
+Cilindrada (cc): 6742
+Potencia (hp): 475
+Torque (Nm): 1068
+Válvulas: 32
+Consumo promedio (km/l): 6.8
+Dimensiones (mm): "6166x2060x2030"
+Precio (USD): $58000
+
+Marca: Ram
+Modelo: 2500 Laramie Night Edition
+Año: 2022
+Combustible: Diesel
+Cilindrada (cc): 6690
+Potencia (hp): 370
+Torque (Nm): 800
+Válvulas: 32
+Consumo promedio (km/l): 6.0
+Dimensiones (mm): "6377x2088x1986"
+Precio (USD): $60000
+
+Marca: Chevrolet
+Modelo: Silverado LTZ Premium
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 6599
+Potencia (hp): 445
+Torque (Nm): 1233
+Válvulas: 32
+Consumo promedio (km/l): 6.7
+Dimensiones (mm): "6353x2375x2131"
+Precio (USD): $62000
+
+Marca: Toyota
+Modelo: Tundra SR5
+Año: 2024
+Combustible: Gasolina
+Cilindrada (cc): 5663
+Potencia (hp): 381
+Torque (Nm): 544
+Válvulas: 32
+Consumo promedio (km/l): 7.0
+Dimensiones (mm): "5814x2007x1930"
+Precio (USD): $50000
+
+Marca: GMC
+Modelo: Canyon Elevation Standard Black Diamond
+Año: 2022
+Combustible: Gasolina
+Cilindrada (cc): 3600
+Potencia (hp): 308
+Torque (Nm): 373
+Válvulas: 24
+Consumo promedio (km/l): 9.2
+Dimensiones (mm): "5405x1874x1780"
+Precio (USD): $44000
+
+Marca: Ford
+Modelo: Ranger Raptor X Special Edition
+Año: 2023
+Combustible: Diesel
+Cilindrada (cc): 1999
+Potencia (hp): 270
+Torque (Nm): 310
+Válvulas: 16
+Consumo promedio (km/l): 10.2
+Dimensiones (mm): "5616x2180x1873"
+Precio (USD): $40000
